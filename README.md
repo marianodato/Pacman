@@ -1,7 +1,7 @@
 # Pacman
-A simple Pacman based console game written in C.
+A simple Pacman based console game written in C with ncurses library.
 
-## Build Instructions
+## Build and Run Instructions
 
 1. Open a terminal.
 2. Install ncurses header files: `sudo apt-get install ncurses-dev`
