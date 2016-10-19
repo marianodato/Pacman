@@ -12,7 +12,7 @@ A simple Pacman based console game written in C with ncurses library.
 6. Run makefile: `make`
 7. Run the game: `./Pacman`
 
-## How to play
+## How to Play
 
 - You are the yellow pacman.
 - Your enemy is the white pacman.
