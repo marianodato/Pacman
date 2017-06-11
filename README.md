@@ -10,7 +10,8 @@ A simple Pacman based console game written in C with ncurses library.
 4. Maximize the terminal.
 5. Change SCREEN_WIDTH and SCREEN_HEIGHT variables in Pacman.c according to your display resolution.
 6. Run makefile: `make`
-7. Run the game: `./Pacman`
+7. Move binary file created to normal instalation path: `mv Pacman /usr/local/bin/`
+8. Run the game: `Pacman`
 
 ## How to Play
 
